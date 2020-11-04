@@ -1,0 +1,44 @@
+body {
+    background-color: #2f4f4f;
+}
+
+header {
+    height: 300px;
+    background-color: #556b2f;
+}
+
+.container {
+    height: 1000px;
+    background-color: #a9a9a9;
+}
+
+.row {
+    height: 100%;
+}
+
+.col {
+    height: 100%;
+}
+
+header .top {
+    height: 80%;
+}
+
+header .bottom {
+    height: 20%;
+    background-color: #e6e6fa;
+}
+
+.left {
+    background-color: #f0f8ff;
+}
+
+.right {
+    background-color: #ffb6c1;
+}
+
+footer {
+    position: relative;
+    height: 100px;
+    background-color: #fffacd;
+}
