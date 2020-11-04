@@ -1,8 +1,8 @@
 # bootstrap-boilerplate
 
-Project Title: "bootstrap-boilerplate" for Geekwise course.
+Project Title:
 
-Description: Bootstrap Boilerplate project for Geekwise mobile friendly website design course.
+Description: 
     [One paragraph of project description goes here]
 
 Prerequisites: N/A
@@ -28,5 +28,5 @@ Citation: N/A
     [How this software can be cited]
     [Provide a DOI that was generated]
 
-Contact: Cody Coats. crcoats15@gmail.com
+Contact: Cody Coats. email
     [Link to e-mail addresses or URLs]
