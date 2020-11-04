@@ -1,32 +1,17 @@
 body {
-    background-color: #2f4f4f;
+    background-color: #f0f8ff;
 }
 
 header {
-    height: 300px;
     background-color: #556b2f;
 }
 
-.container {
-    height: 1000px;
-    background-color: #a9a9a9;
+.content_wrap {
+    height: 80vh;
 }
 
-.row {
+.height_full {
     height: 100%;
-}
-
-.col {
-    height: 100%;
-}
-
-header .top {
-    height: 80%;
-}
-
-header .bottom {
-    height: 20%;
-    background-color: #e6e6fa;
 }
 
 .left {
@@ -38,7 +23,6 @@ header .bottom {
 }
 
 footer {
-    position: relative;
     height: 100px;
     background-color: #fffacd;
 }
