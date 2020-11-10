@@ -1,10 +1,39 @@
+/* BODY */
 body {
     background-color: gainsboro;
 }
 
+/* HEADER */
 header {
     background-color: #819F86;
 }
+
+.jumbotron {
+    height: 600px;
+    background: url("../img/jackson-hendry-eodA_8CTOFo-unsplash.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+/* GLOBAL STYLING */
+body .container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+}
+
+/* li {
+    padding: 12px 24px;
+    border-radius: 5px;
+    border: 1px solid var(--secondary);
+} */
 
 .content_wrap {
     height: 80vh;
@@ -14,6 +43,14 @@ header {
     height: 100%;
 }
 
+:root {
+    --primary: #1d3557;
+    --secondary: #a8dadc;
+    --special: #e63946;
+    --light: #f1faee;
+}
+
+/* COLUMNS */
 .left {
     background-color: #f0f8ff;
 }
@@ -22,6 +59,8 @@ header {
     background-color: #ffb6c1;
 }
 
+
+/* FOOTER */
 footer {
     height: 100px;
     background-color: #fffacd;
